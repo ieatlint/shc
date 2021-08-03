@@ -46,7 +46,7 @@ struct {
 
 
 // This would need to be replaced with a valid SHC from a QR code
-const char shc[] = "shc:/1234567890;
+const char shc[] = "shc:/1234567890";
 
 int main(int argc, char **arv) {
 	int idx;
